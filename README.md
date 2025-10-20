@@ -4,4 +4,4 @@ Then i had used command nmap -A (IP) for aggressive scanning where i got lot of 
 Through wireshark i have analyzed packet capturing. by selecting eth0() then i had selected one packet and read the information about it.
 After finding the open ports i had reserached about them. for me port 53/tcp was open, this port enables to leak all the hostnames. 
 
- go through the pdf in ElevateLabs to understand more 
+ go through the pdf in ElevateLabs_Task_1_file to understand more.
